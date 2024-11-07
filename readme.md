@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b6c08791-7810-4dcc-afc6-da8c84ebfd50)
+
 # Amazon Product Scraper with React & Flask
 
 ## Overview
@@ -78,7 +78,7 @@ The goal of this project was to showcase the ability to integrate **React** and 
 ### Frontend (`App.js`)
 - Built using **React**, this part handles the user interface, including input fields, buttons, and displaying the results.
 - Sends a request to the backend API and processes the response to display the products.
-
+![image](https://github.com/user-attachments/assets/b6c08791-7810-4dcc-afc6-da8c84ebfd50)
 ## How to Run
 
 ### Prerequisites:
