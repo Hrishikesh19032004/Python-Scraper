@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/b6c08791-7810-4dcc-afc6-da8c84ebfd50)
 # Amazon Product Scraper with React & Flask
 
 ## Overview
@@ -46,7 +47,8 @@ The goal of this project was to showcase the ability to integrate **React** and 
 
 ### 5. **CSV Export**:
    - The scraper also saves the scraped product data to a **CSV file** (`amazon_products.csv`), making it easy to download or analyze later.
-   
+   ![image](https://github.com/user-attachments/assets/064ed06e-4f31-4184-979c-0c7c4d9a1768)
+
 ### 6. **Pagination**:
    - The scraper can handle multiple pages of Amazon search results by iterating through page numbers in the URL (e.g., `&page=1`, `&page=2`).
    - This allows the scraper to collect data across several pages of results, increasing the number of products scraped.
